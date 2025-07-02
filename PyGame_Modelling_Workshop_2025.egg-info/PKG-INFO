@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: PyGame-Modelling-Workshop-2025
+Version: 1.0.0
+Summary: Workshop material for hands-on demonstration of using pygame in modelling collective behavior using agent-based models.
+Home-page: https://github.com/mezdahun/PygameModelling25
+Maintainer: David Mezey @ SCIoI
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Other OS
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: pygame
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: opencv-python
+Requires-Dist: h5py
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: maintainer
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

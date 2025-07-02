@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+PyGame_Modelling_Workshop_2025.egg-info/PKG-INFO
+PyGame_Modelling_Workshop_2025.egg-info/SOURCES.txt
+PyGame_Modelling_Workshop_2025.egg-info/dependency_links.txt
+PyGame_Modelling_Workshop_2025.egg-info/not-zip-safe
+PyGame_Modelling_Workshop_2025.egg-info/requires.txt
+PyGame_Modelling_Workshop_2025.egg-info/top_level.txt
+pygmodw25/__init__.py
+pygmodw25/agent.py
+pygmodw25/sims.py
+pygmodw25/support.py
